@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saddam Khoso</h1>
 <h3 align="center">Flutter , Php and Laravel Expert</h3>
 
-<p align="left"> <a https://github.com/LWSADDAM"><img src="src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/?username=lwsaddam" alt="lwsaddam" /></a> </p>
+<p align="left"> <a https://github.com/LWSADDAM/lwsaddam"><img src="src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"/?username=lwsaddam" alt="lwsaddam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
